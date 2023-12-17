@@ -1,0 +1,56 @@
+html {
+    background-color: seagreen;
+}
+
+#header {
+    background-color: #D71313;
+    height: 350px;
+    font-size: 3rem;
+    margin: 0px;
+}
+
+#body {
+    height: 2000px;
+    text-align: center;
+    font-size: 5rem;
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#santa {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+    border: solid #D71313 10px;
+}
+
+#linkToGift {
+    vertical-align: middle;
+    background-color: #D71313;
+    color: black;
+    
+}
+
+#logo {
+    background-color: #D71313;
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 10px;
+}
